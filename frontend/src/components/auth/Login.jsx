@@ -112,7 +112,7 @@ const Login = () => {
                     onChange={changeEventHandler}
                     className="cursor-pointer"
                   />
-                  <Label>Student</Label>
+                  <Label>Applicant</Label>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Input
